@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-17.md",
+                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ec23bfa398818c9d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-17.md",
+                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-17.md",
+                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-17.md"
+                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md"
               }
             }
           },
@@ -151,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,9 +166,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0208e29e3c62205a",
+  "active": "0fc6c13a3069d18e",
   "lastOpenFiles": [
-    "2023-10-17.md",
-    "README.md"
+    "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conectarse a un Servidor con Pwn.md",
+    "Programacion/Coding/Python/Hacking Python/Web Scrapping.md",
+    "Programacion/Coding/Python/Hacking Python/Subprocess.md",
+    "Programacion/Coding/Python/Hacking Python/Script de Python para hacer Fuzzing.md",
+    "Programacion/Coding/Python/Hacking Python/Paramiko - SSH con Python.md",
+    "Programacion/Coding/Python/Hacking Python/Nmap con Python.md",
+    "Programacion/Coding/Python/Hacking Python/Interactuar con Bases de Datos desde Python.md",
+    "Programacion/Coding/Python/Hacking Python/Hacking Wordpress.md",
+    "Programacion/Coding/Python/Hacking Python/Controlar el Sistema Operativo - Modulo OS.md",
+    "Programacion/Coding/Python/Hacking Python/Base64 - Encriptar un Script de Python con Base64.md",
+    "Programacion/Coding/Python/Hacking Python/Automatizar Netcat con Python en Windows.md",
+    "Programacion/Coding/Python/Hacking Python/Ataque Fuerza Bruta FTP con Python.md",
+    "Programacion/images/wrsfgwsergrsedghdrfg.png",
+    "Programacion/images/tgersghsdfghd.png",
+    "Programacion/images/sdgdsfgsdfg.png",
+    "Programacion/images/sdfgsdfghsdfhdfghdfgh.png",
+    "Programacion/images/rtgaergedsgd.png",
+    "Programacion/images/regagetargsrtgas.png",
+    "Programacion/images/pasted image 0.png",
+    "Programacion/images/pasted image 0 9.png",
+    "Programacion/images/pasted image 0 8.png",
+    "Programacion/images/pasted image 0 7.png",
+    "Programacion/images/Pasted image 20230130113623.png.md",
+    "Programacion/images/Pasted image 20230124210255.png.md",
+    "Programacion/images/Pasted image 20230124204752.png.md",
+    "Programacion/images",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 3 - Blind OS command injection with output redirection.md",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 4 -- Máquina 5.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 3 -- Máquina 4.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 2 -- Máquina 3.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 1 -- Máquina 2.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Kali Linux -- Máquina 1.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/0 - Preparación del Entorno.md",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Gobuster.md",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger",
+    "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web",
+    "Programacion/Hacking/Pivoting/Preparación eCPPTv2",
+    "Programacion/Hacking/Hacking Generico/Nmap",
+    "Programacion/Hacking/Hacking Generico/Metasploit",
+    "Programacion/Hacking/Hacking Generico/Hydra",
+    "Programacion/Hacking/Hacking Generico/Hacking Web"
   ]
 }
