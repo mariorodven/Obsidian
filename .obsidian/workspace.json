@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "886b7ca3695b3add",
+        "id": "c37a7db3da062505",
         "type": "tabs",
         "children": [
           {
-            "id": "22df26ed3fb5c67a",
+            "id": "28432dc98ef91ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md",
+                "file": "Programacion/Fundamentos de Internet/Practica 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md",
+                "file": "Programacion/Fundamentos de Internet/Practica 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md",
+                "file": "Programacion/Fundamentos de Internet/Practica 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conexion SSH con Librería PWN.md"
+                "file": "Programacion/Fundamentos de Internet/Practica 2.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
+    "width": 328.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,53 +166,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fc6c13a3069d18e",
+  "active": "28432dc98ef91ae2",
   "lastOpenFiles": [
-    "Programacion/Coding/Python/Hacking Python/Libreria PWN/Conectarse a un Servidor con Pwn.md",
-    "Programacion/Coding/Python/Hacking Python/Web Scrapping.md",
-    "Programacion/Coding/Python/Hacking Python/Subprocess.md",
-    "Programacion/Coding/Python/Hacking Python/Script de Python para hacer Fuzzing.md",
-    "Programacion/Coding/Python/Hacking Python/Paramiko - SSH con Python.md",
-    "Programacion/Coding/Python/Hacking Python/Nmap con Python.md",
-    "Programacion/Coding/Python/Hacking Python/Interactuar con Bases de Datos desde Python.md",
-    "Programacion/Coding/Python/Hacking Python/Hacking Wordpress.md",
-    "Programacion/Coding/Python/Hacking Python/Controlar el Sistema Operativo - Modulo OS.md",
-    "Programacion/Coding/Python/Hacking Python/Base64 - Encriptar un Script de Python con Base64.md",
-    "Programacion/Coding/Python/Hacking Python/Automatizar Netcat con Python en Windows.md",
-    "Programacion/Coding/Python/Hacking Python/Ataque Fuerza Bruta FTP con Python.md",
+    "Programacion/images/socket_pre.png",
+    "Programacion/images/socket_post.png",
+    "Programacion/images/client_sock.png",
+    "Programacion/Coding/Python/Gestión de Ficheros/With open().md",
+    "Programacion/Coding/Python/API/Librería VirusTotal Apis.md",
+    "Programacion/Coding/Python/API/Controlar Telegram desde Python.md",
+    "Programacion/Coding/Python/API/Conectar Python con Shodan.md",
+    "Programacion/Coding/Python/API/Conectar Python con ChatGPT.md",
+    "Programacion/Coding/Python/API/Conectar Python con AbuseIP.md",
+    "Programacion/Bases de Datos/SQL Developer/PL - SQL/Bucles/Bucle FOR.md",
+    "Programacion/Bases de Datos/SQL Developer/PL - SQL/Bucles/Basic Loop.md",
+    "Programacion/Bases de Datos/SQL Developer/PL - SQL/Constantes.md",
+    "Programacion/Bases de Datos/SQL Developer/PL - SQL/Declare, Begin, Exception, End.md",
+    "Programacion/Bases de Datos/SQL Developer/PL - SQL/Variables.md",
+    "Programacion/Bases de Datos/SQL Developer/PL - SQL/Sentencias Condicionales IF, ELIF, ELSE.md",
+    "Programacion/Bases de Datos/Mysql/Usuarios y Permisos.md",
+    "Programacion/Bases de Datos/Mysql/Union.md",
+    "Programacion/Bases de Datos/Mysql/Sentencias Condicionales MySQL.md",
+    "Programacion/Bases de Datos/Mysql/Insertar Datos en Tablas.md",
+    "Programacion/Bases de Datos/Mysql/Having.md",
+    "Programacion/Bases de Datos/Mysql/Crear una Tabla con sus Registros.md",
+    "Programacion/Bases de Datos/Mysql/Consultas.md",
+    "Programacion/Bases de Datos/Mysql/Conceptos B├ísicos.md",
+    "Programacion/Bases de Datos/MongoDB/3 - MongoExport.md",
+    "Programacion/Bases de Datos/MongoDB/2 - Las Colecciones.md",
+    "Programacion/Bases de Datos/MongoDB/1 - Conceptos Básicos MongoDB.md",
+    "Programacion/Bases de Datos/MongoDB/0 - Instalación de MongoDB.md",
+    "Programacion/Fundamentos de Internet/Practica 2.md",
+    "Programacion/images/netscan.png",
+    "Programacion/images/esquema_sockets.png",
+    "Programacion/images/python_shell.png",
+    "Programacion/Fundamentos de Internet",
     "Programacion/images/wrsfgwsergrsedghdrfg.png",
     "Programacion/images/tgersghsdfghd.png",
     "Programacion/images/sdgdsfgsdfg.png",
     "Programacion/images/sdfgsdfghsdfhdfghdfgh.png",
     "Programacion/images/rtgaergedsgd.png",
-    "Programacion/images/regagetargsrtgas.png",
-    "Programacion/images/pasted image 0.png",
-    "Programacion/images/pasted image 0 9.png",
-    "Programacion/images/pasted image 0 8.png",
-    "Programacion/images/pasted image 0 7.png",
-    "Programacion/images/Pasted image 20230130113623.png.md",
-    "Programacion/images/Pasted image 20230124210255.png.md",
-    "Programacion/images/Pasted image 20230124204752.png.md",
     "Programacion/images",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 3 - Blind OS command injection with output redirection.md",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 4 -- Máquina 5.md",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 3 -- Máquina 4.md",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 2 -- Máquina 3.md",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 1 -- Máquina 2.md",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Kali Linux -- Máquina 1.md",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/0 - Preparación del Entorno.md",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Gobuster.md",
     "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web",
     "Programacion/Hacking/Pivoting/Preparación eCPPTv2",
     "Programacion/Hacking/Hacking Generico/Nmap",
     "Programacion/Hacking/Hacking Generico/Metasploit",
-    "Programacion/Hacking/Hacking Generico/Hydra",
-    "Programacion/Hacking/Hacking Generico/Hacking Web"
+    "Programacion/Hacking/Hacking Generico/Hydra"
   ]
 }
