@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c37a7db3da062505",
+        "id": "5a0e135301f62564",
         "type": "tabs",
         "children": [
           {
-            "id": "28432dc98ef91ae2",
+            "id": "717ee472173487e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Fundamentos de Internet/Practica 2.md",
+                "file": "Programacion/Redes/Modelo OSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26edd9696e6d5eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Fundamentos de Internet/Practica 2.md",
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Fundamentos de Internet/Practica 2.md",
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Fundamentos de Internet/Practica 2.md"
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md"
               }
             }
           },
@@ -146,12 +159,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +175,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "28432dc98ef91ae2",
+  "active": "26edd9696e6d5eac",
   "lastOpenFiles": [
+    "Programacion/images/Nodos.png",
+    "Programacion/images/Pasted image.png",
+    "Apuntes de clase/Fundamentos de Internet/Practica 2.md",
+    "Pasted image 20231026162452.png",
+    "Pasted image 20231026162545.png",
+    "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
+    "Programacion/images/fiabilidad NIC.png",
+    "Programacion/images/Screenshot from 2023-10-26 16-34-20.png",
+    "Programacion/images/NIC.png",
+    "Proyectos/Máquina arcade.md",
+    "Apuntes de clase",
+    "Programacion/Redes/Modelo OSI.md",
+    "Proyectos",
+    "Programacion/Linux/Bash Scripting/1 - Comando FIND.md",
+    "Programacion/Linux/Ansible/Fichero de Configuración Ansible.md",
+    "Programacion/Linux/Ansible/Instalar Servicio SSH en Linux.md",
+    "Programacion/Linux/Ansible/Configuración SSH Automático.md",
+    "Programacion/Linux/Ansible/Principales Módulos/Módulo Copy.md",
+    "Programacion/Linux/Ansible/Principales Módulos/Módulo Command.md",
+    "Programacion/Linux/Ansible/Principales Módulos/Módulo Cli-Command.md",
+    "Programacion/Linux/Ansible/Principales Módulos/Modulo Archive.md",
     "Programacion/images/socket_pre.png",
     "Programacion/images/socket_post.png",
     "Programacion/images/client_sock.png",
@@ -184,35 +219,14 @@
     "Programacion/Bases de Datos/SQL Developer/PL - SQL/Variables.md",
     "Programacion/Bases de Datos/SQL Developer/PL - SQL/Sentencias Condicionales IF, ELIF, ELSE.md",
     "Programacion/Bases de Datos/Mysql/Usuarios y Permisos.md",
-    "Programacion/Bases de Datos/Mysql/Union.md",
-    "Programacion/Bases de Datos/Mysql/Sentencias Condicionales MySQL.md",
-    "Programacion/Bases de Datos/Mysql/Insertar Datos en Tablas.md",
-    "Programacion/Bases de Datos/Mysql/Having.md",
-    "Programacion/Bases de Datos/Mysql/Crear una Tabla con sus Registros.md",
-    "Programacion/Bases de Datos/Mysql/Consultas.md",
-    "Programacion/Bases de Datos/Mysql/Conceptos B├ísicos.md",
-    "Programacion/Bases de Datos/MongoDB/3 - MongoExport.md",
-    "Programacion/Bases de Datos/MongoDB/2 - Las Colecciones.md",
-    "Programacion/Bases de Datos/MongoDB/1 - Conceptos Básicos MongoDB.md",
-    "Programacion/Bases de Datos/MongoDB/0 - Instalación de MongoDB.md",
-    "Programacion/Fundamentos de Internet/Practica 2.md",
     "Programacion/images/netscan.png",
-    "Programacion/images/esquema_sockets.png",
-    "Programacion/images/python_shell.png",
-    "Programacion/Fundamentos de Internet",
-    "Programacion/images/wrsfgwsergrsedghdrfg.png",
-    "Programacion/images/tgersghsdfghd.png",
-    "Programacion/images/sdgdsfgsdfg.png",
-    "Programacion/images/sdfgsdfghsdfhdfghdfgh.png",
-    "Programacion/images/rtgaergedsgd.png",
+    "Apuntes de clase/Fundamentos de Internet",
     "Programacion/images",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
     "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web",
     "Programacion/Hacking/Pivoting/Preparación eCPPTv2",
-    "Programacion/Hacking/Hacking Generico/Nmap",
-    "Programacion/Hacking/Hacking Generico/Metasploit",
-    "Programacion/Hacking/Hacking Generico/Hydra"
+    "Programacion/Hacking/Hacking Generico/Nmap"
   ]
 }
