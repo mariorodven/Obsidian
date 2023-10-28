@@ -1,0 +1,2 @@
+# Introducción
+Docker es una herramienta que permite a los desarrolladores desplegar sus aplicaciones en una sandbox, un sistema virtualizado que nos permite correr cualquier app en un contenedor, librándonos del mítico "pues en mi ordenador si funciona" y permitiéndonos probar aplicaciones sin miedo a dañar nuestro sistema operativo. 

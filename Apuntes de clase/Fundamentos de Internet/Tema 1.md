@@ -35,7 +35,7 @@ suma = msg.a + msg.b;
 send(ComputerA, pid = 10, suma)
 ```
 
-Teniendo en cuenta que ya sabemos qué es una aplicación distribuida, vamos a ver qué es una red de ordenadores. Una red de ordenadores es un conjunto de maquinas interconectadas que intercambian información, por ejemplo un smartphone, un portátil o una smart TV se interconectan entre ellas en la red wifi de tu casa. ¿Qué demonios es una red entonces? Pues es un sistema que concede conexión entre equipos/nodos.
+Teniendo en cuenta que ya sabemos qué es una aplicación distribuida, vamos a ver qué es una red de ordenadores. Una red de ordenadores es un conjunto de maquinas interconectadas que intercambian información, por ejemplo un smartphone, un portátil o una smart TV se interconectan entre ellas en la red WiFi de tu casa. ¿Qué demonios es una red entonces? Pues es un sistema que concede conexión entre equipos/nodos.
 
 ## Los cuatro modos de Conexión
 Básicamente existen 4 modos de interconectar nodos dentro de una red. La primera, la más intuitiva y simple es a través de un enlace punto a punto. 
@@ -62,7 +62,7 @@ Pongamos el siguiente caso, mi NIC A manda  "101101" al NIC B, al cual le llega 
 ![[fiabilidad NIC.png]]
 
 #### Solución: Encapsulación
-La solución puede parecer rara, pero en realidad es muy lógica, vamos a encapsular los paquetes, es decir, a todos los paquetes les vamos a añadir un encabezado(encapsulado) y el destinatario los leerá y desencapsulará. Por ejemplo vamos a poner en el encabezado un 1 si el numero de 0 en el paquete es par, y el destinatario sabrá rápidamente si el paquete que le ha llegado es correcto o no.
+La solución puede parecer rara, pero en realidad es muy lógica, vamos a encapsular los paquetes, es decir, a todos los paquetes les vamos a añadir un encabezado(encapsulado) y el destinatario los leerá y des encapsulará. Por ejemplo vamos a poner en el encabezado un 1 si el numero de 0 en el paquete es par, y el destinatario sabrá rápidamente si el paquete que le ha llegado es correcto o no.
 
 > Definición: Caudal(Throughput)
 > Es el número de bytes que pasa por un sistema, por ejemplo, una app que puede mandar un "Hola" a la app B cada segundo. Hay diferentes standards, entre aplicaciones es de 4 bytes/sec(32bps) y entre NIC's de 13 bytes/sec(104bps)

@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "CuRetroarch",
+      "CuRetropie",
+      "CuDocker"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -17,5 +21,7 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconsBackgroundCheckEnabled": false
-  }
+  },
+  "Proyectos/Docker": "CuDocker",
+  "Proyectos/Máquina arcade.md": "CuRetroarch"
 }
