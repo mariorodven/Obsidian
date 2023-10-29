@@ -1,11 +1,5 @@
 # Introducción al funcionamiento de las redes
-## Índice
 
-1. Introducción
-2. Interconexión entre computadores en la red
-	1. Conexión directa
-	2. Conexión indirecta
-3. Introducción a Internet
 ## Introducción
 Hasta ahora las apps que hemos trabajado trabajaban "por su cuenta" por así decirlo, pero ahora que vamos a usar internet deberemos ver las diferencias entre estas apps "solitarias" y las apps distribuidas. 
 Las aplicaciones se dice que son distribuidas cuando están distribuidas entre varios equipos, por ejemplo tenemos estas dos apps que se comunican de la siguiente forma:
@@ -65,12 +59,30 @@ Pongamos el siguiente caso, mi NIC A manda  "101101" al NIC B, al cual le llega 
 La solución puede parecer rara, pero en realidad es muy lógica, vamos a encapsular los paquetes, es decir, a todos los paquetes les vamos a añadir un encabezado(encapsulado) y el destinatario los leerá y des encapsulará. Por ejemplo vamos a poner en el encabezado un 1 si el numero de 0 en el paquete es par, y el destinatario sabrá rápidamente si el paquete que le ha llegado es correcto o no.
 
 > Definición: Caudal(Throughput)
-> Es el número de bytes que pasa por un sistema, por ejemplo, una app que puede mandar un "Hola" a la app B cada segundo. Hay diferentes standards, entre aplicaciones es de 4 bytes/sec(32bps) y entre NIC's de 13 bytes/sec(104bps)
-
-
+> Es el número de bytes que pasa por un sistema, por ejemplo, una app que puede mandar un "Hola" a la app B cada segundo. Hay diferentes standards, entre aplicaciones es de 4 bytes/sec(32 bps) y entre NIC 's de 13 bytes/sec(104 bps)
 #### Inconvenientes del enlace punto a punto
 1. Hay una distancia máxima entre los nodos
 2. Es muy costoso si hay mas de 2 nodos en la red(aunque hay diferentes formas de interconectarlos)
 ![[Nodos.png]]
 ### Enlace de puente or shared (broadcast) data link
-Aqui conectamos multiples
+Aquí conectamos multiples varias tarjetas de red al mismo enlace ( o cable ). Así es como funciona por ejemplo el Wifi, solo que el medio es invisible (el aire). Con este nuevo tipo de enlace nos surgen nuevos problemas, como la colisión de paquetes, que ocurre si dos nodos del enlace tratan de transmitir paquetes de forma simultánea. También se nos presenta que el NIC destino tiene que ser identificado, pues si mando un paquete cualquiera, todos lo reciben, aquí es donde entra la dirección física única de cada NIC, la MAC, tienen este formato: ```e0:3f:49:46:f5:4b```
+![[shared data link.png]]
+
+#### Broadcast link: interworking
+Vamos a hacer funcionar una red con un protocolo de enlace de datos implementado en el firmware de los NIC 's
+
+| NIC_TX([data], [destination]):                            | NIC_RX( ):                                              |
+| --------------------------------------------------------- | ------------------------------------------------------- |
+| **Encapsula datos**:añade remitente y destinatario físico | **Desencapsula**: (lee el encabezado)->[destinatario]   |
+| Envía el paquete encapsulado                              | Si el destinatario es mi MAC, manda el paquete a la app |
+|                                                           | Sino, descarta el paquete                               |
+
+![[Encapsulacion y desencapsulacion_MAC.png]]
+
+Para el problema anterior en la que teníamos que encapsular los paquetes para enviarlos, podemos hacerlo de dos formas diferentes, o bien con un encabezado con varios campos, o con dos protocolos. Se vería asi:
+
+![[opcion encabezado.png]]
+
+O bien, usando dos protocolos se vería así:
+
+![[opcion_protocolo.png]]

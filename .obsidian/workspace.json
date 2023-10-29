@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "80670ef2449c4f12",
+        "id": "34c28a9d42f9c52a",
         "type": "tabs",
         "children": [
           {
-            "id": "1359b526ac4d78e5",
+            "id": "59597e57568da83a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Docker_Hacking/Variables de Entorno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b17a6511472a11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Docker/Docker pa tontos.md",
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Docker/Docker pa tontos.md",
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyectos/Docker/Docker pa tontos.md",
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyectos/Docker/Docker pa tontos.md"
+                "file": "Apuntes de clase/Fundamentos de Internet/Tema 1.md"
               }
             }
           },
@@ -159,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,11 +167,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0b17a6511472a11b",
+  "active": "59597e57568da83a",
   "lastOpenFiles": [
-    "2023-10-26.md",
-    "Proyectos/Docker/Docker pa tontos.md",
+    "Programacion/images/opcion_protocolo.png",
+    "Programacion/images/opcion encabezado.png",
+    "Programacion/images/Encapsulacion y desencapsulacion_MAC.png",
+    "Programacion/images/Screenshot from 2023-10-29 10-44-30.png",
+    "Programacion/images/shared data link.png",
     "Programacion/Docker_Hacking/Variables de Entorno.md",
+    "Proyectos/Docker/Docker pa tontos.md",
+    "2023-10-26.md",
     "Proyectos/Docker",
     "Programacion/Docker_Hacking/REDES EN DOCKER (la red por defecto en Docker).md",
     "Programacion/Docker_Hacking/Montar Entorno Vulnerable PHP con Docker.md",
@@ -208,19 +200,14 @@
     "Programacion/Linux/Arch.md",
     "Programacion/Linux/Atajos entorno de trabajo BSPWM.md",
     "Programacion/Linux/Saber que Puertos estan Abiertos en Linux.md",
-    "Programacion/Linux/NETPLAN - Configurar Redes en Linux.md",
     "Programacion/images/Nodos.png",
     "Programacion/images/Pasted image.png",
     "Pasted image 20231026162452.png",
     "Pasted image 20231026162545.png",
     "Programacion/images/fiabilidad NIC.png",
     "Programacion/images/Screenshot from 2023-10-26 16-34-20.png",
-    "Programacion/images/NIC.png",
     "Apuntes de clase",
     "Proyectos",
-    "Programacion/images/socket_pre.png",
-    "Programacion/images/socket_post.png",
-    "Programacion/images/client_sock.png",
     "Apuntes de clase/Fundamentos de Internet",
     "Programacion/images",
     "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
