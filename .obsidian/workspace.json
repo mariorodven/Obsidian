@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "34c28a9d42f9c52a",
+        "id": "987ab8a2a0f43687",
         "type": "tabs",
         "children": [
           {
-            "id": "59597e57568da83a",
+            "id": "ff18c778e8118ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Docker/Docker pa tontos.md",
+                "file": "Horario del 2 cuatri.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b1f3eaa558c89e9",
+            "id": "94fbbb4f2e502800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas diarias/2023-10-30.md",
+                "file": "Fundamentos de Internet/Tema 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas diarias/2023-10-30.md",
+                "file": "Fundamentos de Internet/Tema 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2023-10-30.md",
+                "file": "Fundamentos de Internet/Tema 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas diarias/2023-10-30.md"
+                "file": "Fundamentos de Internet/Tema 5.md"
               }
             }
           },
@@ -159,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
@@ -182,51 +182,51 @@
   },
   "active": "0fc6c13a3069d18e",
   "lastOpenFiles": [
+    "Horario del 2 cuatri.md",
+    "Fundamentos de Internet/Tema 5.md",
+    "Pictures/internet/temporizador_tcp.png",
+    "Pictures/internet/Screenshot from 2023-11-02 11-35-20 (copy).png",
+    "Pictures/internet/Screenshot from 2023-11-02 11-35-20.png",
+    "Pictures/internet/Screenshot from 2023-10-26 16-53-48.png",
+    "Pictures/internet/Screenshot from 2023-10-26 16-34-20.png",
+    "Pictures/internet/Screenshot from 2023-10-26 16-24-49.png",
+    "Pictures/internet/Screenshot from 2023-09-28 11-23-56.png",
+    "Pictures/internet/intercambio_de_mensajes.png",
+    "Pictures/internet/ejc_TCP.png",
+    "Pictures/internet",
+    "Pictures/Screenshot from 2023-09-28 11-23-56.png",
+    "Pictures/horarios",
+    "Fundamentos de Internet/Tema 4.md",
+    "Fundamentos de Internet/Tema 1.md",
+    "Fundamentos de Internet/Practica 2.md",
+    "Fundamentos de Internet",
+    "Pictures",
+    "Apuntes de clase/Fundamentos de Internet/Tema 4.md",
+    "Tablet/Mates 1.md",
+    "Tablet/Notas/Cosas a Luis.md",
+    "Tablet/Notas",
+    "Tablet/Templates/Notes.md",
+    "Tablet/Templates",
+    "Tablet/Reunion con Antonio.md",
+    "Tablet",
+    "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
+    "Notas diarias/2023-10-30.md",
+    "Tareas/Untitled.md",
+    "Tareas",
+    "Excalidraw/Drawing 2023-11-02 10.50.50.excalidraw.md",
+    "Excalidraw",
+    "Apuntes de clase/Fundamentos de Internet/Practica 2.md",
+    "Proyectos/Docker/Docker pa tontos.md",
     "Notas diarias",
     "Proyectos/Docker/Cosas que aprender en Docker.md",
-    "Notas diarias/2023-10-30.md",
-    "Proyectos/Docker/Docker pa tontos.md",
-    "Apuntes de clase/Fundamentos de Internet/Tema 1.md",
-    "Programacion/images/opcion_protocolo.png",
-    "Programacion/images/opcion encabezado.png",
-    "Programacion/images/Encapsulacion y desencapsulacion_MAC.png",
-    "Programacion/images/Screenshot from 2023-10-29 10-44-30.png",
-    "Programacion/images/shared data link.png",
     "Programacion/Docker_Hacking/Variables de Entorno.md",
     "2023-10-26.md",
-    "Proyectos/Docker",
     "Programacion/Docker_Hacking/REDES EN DOCKER (la red por defecto en Docker).md",
     "Programacion/Docker_Hacking/Montar Entorno Vulnerable PHP con Docker.md",
     "Programacion/Docker_Hacking/Los Volúmenes.md",
     "Programacion/Docker_Hacking/Listar y Mapear Puertos.md",
     "Programacion/Docker_Hacking/Las Imagenes.md",
     "Programacion/Docker_Hacking/Laboratorios Docker Pentesting.md",
-    "Programacion/Docker_Hacking/Ejecutar Servidor Nginx desde Docker.md",
-    "Programacion/Docker_Hacking/Docker Compose.md",
-    "Programacion/Docker_Hacking/Dlanding Images.md",
-    "Programacion/Docker_Hacking/DANGLING VOLUMES.md",
-    "Programacion/Docker_Hacking/Conectar USB a Nuestros Contenedores.md",
-    "Programacion/Docker_Hacking/BIND MOUNT (GUARDAR DATOS EN UN DIRECTORIO DE NUESTRO PC ANFITRIÓN).md",
-    "Programacion/Docker_Hacking/BASES DE DATOS MYSQL CON DOCKER.md",
-    "Programacion/Docker_Hacking/Administrar Usuarios dentro del Contenedor.md",
-    "Programacion/Docker_Hacking/Dockerfile/Lo Básico.md",
-    "Programacion/Docker_Hacking/Dockerfile/Crear Imagen de Programa en Github desde Cero.md",
-    "Programacion/Docker_Hacking/Dockerfile/Crear Archivo Dockerfile que no se llame Dockerfile.md",
-    "Programacion/Linux/Ansible/Configuración SSH Automático.md",
-    "Programacion/Linux/Árbol de Directorios en Linux.md",
-    "Programacion/images/Nodos.png",
-    "Programacion/images/Pasted image.png",
-    "Pasted image 20231026162452.png",
-    "Pasted image 20231026162545.png",
-    "Programacion/images/fiabilidad NIC.png",
-    "Apuntes de clase",
-    "Proyectos",
-    "Apuntes de clase/Fundamentos de Internet",
-    "Programacion/images",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger",
-    "Programacion/Hacking/Hacking Generico/Hacking Web/Fuzzing Web",
-    "Programacion/Hacking/Pivoting/Preparación eCPPTv2"
+    "Programacion/Docker_Hacking/Ejecutar Servidor Nginx desde Docker.md"
   ]
 }
