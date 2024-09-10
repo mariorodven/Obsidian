@@ -1,1 +1,0 @@
-Scapy es una librería de Python utilizada para manipular y enviar paquetes de red. Con Scapy se pueden construir paquetes personalizados, analizar paquetes capturados, crear herramientas de escaneo y pruebas, entre otras cosas.

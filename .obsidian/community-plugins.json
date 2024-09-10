@@ -1,13 +1,9 @@
 [
-  "obsidian-advanced-slides",
-  "table-editor-obsidian",
-  "calendar",
+  "auto-note-mover",
   "dataview",
-  "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
-  "obsidian-git",
-  "obsidian-icon-folder",
-  "obsidian-mind-map",
-  "quick-latex",
-  "obsidian-tasks-plugin"
+  "obsidian-linter",
+  "url-into-selection",
+  "short-internal-links-to-headings",
+  "templater-obsidian",
+  "various-complements"
 ]

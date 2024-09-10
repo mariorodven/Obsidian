@@ -1,7 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Atom",
-  "baseFontSize": 14,
-  "textFontFamily": "",
-  "monospaceFontFamily": "Hack"
+  "theme": "obsidian",
+  "accentColor": "#3582fd",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
 }

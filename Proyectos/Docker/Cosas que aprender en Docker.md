@@ -1,5 +1,0 @@
-- Cómo meter una app hecha en Python en un [contenedor](https://docs.docker.com/language/python/containerize/)
-- Aprender a usar  [compose watch](https://docs.docker.com/compose/file-watch/), para actualizar en el momento los archivos
-- Aprender a usar el [Dockerfile](https://docs.docker.com/compose/compose-file/03-compose-file/)
-	- Aprender a usar el [docker compose](https://docs.docker.com/compose/compose-file/03-compose-file/)
-- 
