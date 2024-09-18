@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 El **kernel** es el "corazón" o el núcleo del sistema operativo. Es un programa que actúa como intermediario entre el hardware (la parte física de la computadora, como el procesador, la memoria, el disco duro, etc.) y el software (las aplicaciones que usamos, como un navegador de internet o un editor de texto).
 
 ### ¿Qué hace el kernel? 

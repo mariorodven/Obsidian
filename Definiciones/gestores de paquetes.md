@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Los **gestores de paquetes** son herramientas que facilitan la instalación, actualización y eliminación de software en un sistema operativo. En Linux, estos gestores permiten a los usuarios manejar el software de manera eficiente sin necesidad de instalar cada programa manualmente. A continuación te explico cómo funcionan y algunos ejemplos comunes:
 
 ### ¿Qué hacen los gestores de paquetes?
@@ -15,19 +18,19 @@ Los **gestores de paquetes** son herramientas que facilitan la instalación, act
 
 ### Ejemplos de gestores de paquetes en Linux:
 
-1. **APT (Advanced Package Tool)**:
+1. **[[Debian|APT]] (Advanced Package Tool)**:
     - **Distribuciones**: Debian, Ubuntu y sus derivadas (como Linux Mint).
     - **Comandos comunes**:
         - `apt update`: Actualiza la lista de paquetes disponibles.
         - `apt install nombre_paquete`: Instala un paquete.
         - `apt upgrade`: Actualiza todos los paquetes instalados a sus versiones más recientes.
-2. **YUM (Yellowdog Updater Modified) / DNF (Dandified YUM)**:
+2. **[[distros#3. **Red Hat** (y sus derivadas como Fedora y CentOS)|YUM]] (Yellowdog Updater Modified) / DNF (Dandified YUM)**:
     - **Distribuciones**: Red Hat, CentOS, Fedora (DNF es la versión más nueva que reemplaza a YUM en Fedora).
     - **Comandos comunes**:
         - `yum install nombre_paquete` / `dnf install nombre_paquete`: Instala un paquete.
         - `yum update` / `dnf update`: Actualiza todos los paquetes instalados.
         - `yum remove nombre_paquete` / `dnf remove nombre_paquete`: Elimina un paquete.
-3. **Pacman**:
+3. **[[Arch|Pacman]]**:
     
     - **Distribución**: Arch Linux y sus derivadas (como Manjaro).
     - **Comandos comunes**:

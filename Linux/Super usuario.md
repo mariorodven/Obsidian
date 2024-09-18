@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 En Linux, el **superusuario** (también conocido como **root**) es una cuenta con el nivel más alto de [[Permisos]] en el sistema.
 ### **Qué es el Superusuario (root)**
 

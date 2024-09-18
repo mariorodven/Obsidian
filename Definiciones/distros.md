@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Las **distros de Linux** (o distribuciones) son versiones completas de sistemas operativos que usan el **kernel de Linux**, pero cada una incluye diferentes herramientas, configuraciones y software adicionales. Existen muchas distros, y aunque comparten el mismo núcleo, cada una tiene su propio estilo y enfoque. Aquí te explico las **tres ramas más importantes** de distros de Linux y sus características principales.
 
 ### 1. **Debian** (y sus derivadas como Ubuntu y Linux Mint)

@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### **Distribuciones Basadas en Debian**
 
 - **Qué son**: Son sistemas operativos que utilizan Debian como su base. Estas distribuciones heredan la estabilidad y la estructura de Debian pero a menudo añaden sus propias características, herramientas o cambios de diseño.

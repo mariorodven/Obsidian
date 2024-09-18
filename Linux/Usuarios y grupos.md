@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 1. **Usuarios**:
     
     - **Qué son**: Son las cuentas individuales en un sistema [[¿Qué es Linux?|Linux]]. Cada usuario tiene su propio espacio y configuración en el sistema.

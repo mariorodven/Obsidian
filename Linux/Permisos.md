@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ## Permisos
 
 En Linux, los **permisos** determinan quién puede leer, modificar o ejecutar un archivo o directorio. Estos permisos se dividen en tres grupos principales:

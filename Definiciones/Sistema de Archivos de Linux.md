@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 El **sistema de archivos de Linux** está organizado de forma jerárquica, similar a un árbol invertido. En la parte superior está el directorio raíz, representado por la carpeta **/**, y debajo de esta hay diferentes subdirectorios que almacenan archivos y datos específicos.
 
 ### **El directorio raíz (/**)**:

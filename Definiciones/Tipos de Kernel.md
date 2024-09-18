@@ -1,4 +1,7 @@
-En el mundo de Linux, el **kernel** es el núcleo del sistema operativo, y existen diferentes variantes que están optimizadas para propósitos específicos. Aquí tienes una explicación breve de algunos tipos de kernels, como **Zen**, **Hardened** y otros:
+---
+dg-publish: "true"
+---
+En el mundo de Linux, el **[[kernel]]** es el núcleo del sistema operativo, y existen diferentes variantes que están optimizadas para propósitos específicos. Aquí tienes una explicación breve de algunos tipos de kernels, como **Zen**, **Hardened** y otros:
 
 ### **1. Kernel Estándar**
 

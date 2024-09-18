@@ -1,3 +1,7 @@
+---
+dg-publish: "true"
+---
+
 [Linux](https://en.wikipedia.org/wiki/Linux) es un **[[kernel]]**, es decir, la parte central de un sistema operativo que conecta el hardware con los programas. Las **[[distros]] de Linux** (abreviación de "distribuciones") son sistemas operativos completos que usan ese kernel. Es como si Linux fuera una marca de coches, y cada **distro** fuera un modelo diferente de coche.
 
 Hay muchos tipos de distros, como hay diferentes tipos de coches: algunos son más sencillos, otros tienen más funciones, algunos están diseñados para trabajar rápido, otros para ahorrar recursos, y también hay distros personalizadas por los usuarios.

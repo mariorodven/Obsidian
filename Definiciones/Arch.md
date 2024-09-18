@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### **Arch Linux**
 
 - **Qué es**: Arch Linux es una [[distros|distribución]] de Linux conocida por su simplicidad, flexibilidad y enfoque en la personalización. Está diseñada para usuarios avanzados que quieren construir su sistema desde cero y tener control total sobre su configuración.

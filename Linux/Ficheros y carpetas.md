@@ -1,4 +1,6 @@
-
+---
+dg-publish: "true"
+---
 Antes, explicando los comandos de [[¿Qué es Linux?#^La terminal]], he mencionado la palabra carpeta, pero esa palabra es muy de Windows, aquí se les llama directorios, en Linux el 99% de todo, es o un fichero o un directorio. 
 
 ```zsh

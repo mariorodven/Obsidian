@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Open source o aplicaciones de código abierto se refiere a las aplicaciones
 
 Un **programa** o **proyecto open source** (código abierto) es un software cuyo **código fuente** está disponible públicamente para que cualquier persona lo pueda ver, modificar y distribuir. A diferencia de los programas de software propietario, donde el código es cerrado y solo los desarrolladores originales pueden modificarlo, el software de código abierto invita a la colaboración de una comunidad global de desarrolladores.

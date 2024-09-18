@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Aquí os dejo una lista con los comandos que creo esenciales para moverse por la terminal de Linux, están organizados de forma que muestra el uso, las banderas de uso común y un ejemplo.
 
 Los **comandos de Linux** permiten a los usuarios interactuar con el sistema operativo, pero estos comandos no operan directamente sobre el **hardware**. En su lugar, los comandos **se comunican con el [[kernel]]**, que es el núcleo del sistema operativo.

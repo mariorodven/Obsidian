@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Los **gestores de ventana** (o **window managers**) son componentes esenciales en los entornos de escritorio de Linux que se encargan de gestionar cómo se muestran y organizan las ventanas en la pantalla.
 ### **Qué es un Gestor de Ventana**
 
