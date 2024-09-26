@@ -142,4 +142,4 @@ matrix = [[1, 2], [3, 4], [5, 6]]  # Una lista de listas (matriz 3x2)
 
 ### Conclusión
 
-Las **listas en Python** son una estructura de [[Variables|datos]] fundamental que permite almacenar, modificar y manipular colecciones de elementos. Son altamente flexibles y pueden contener cualquier tipo de dato, lo que las convierte en una herramienta poderosa para el desarrollo de programas que manejan secuencias de datos.
+Las **listas en Python** son una estructura de [[Python/Variables|datos]] fundamental que permite almacenar, modificar y manipular colecciones de elementos. Son altamente flexibles y pueden contener cualquier tipo de dato, lo que las convierte en una herramienta poderosa para el desarrollo de programas que manejan secuencias de datos.

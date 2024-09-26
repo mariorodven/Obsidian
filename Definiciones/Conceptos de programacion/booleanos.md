@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### Booleanos en Programación
 
 Un **booleano** (o **bool**) es un tipo de dato que puede tener uno de dos valores: **`true`** (verdadero) o **`false`** (falso). Los booleanos son fundamentales en la programación porque se utilizan para controlar el flujo de los programas mediante estructuras de control como **if**, **while**, y **for**.

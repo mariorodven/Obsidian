@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Un **carácter** o **char** es un tipo de dato que representa un único símbolo, como una letra, un número o un signo de puntuación. Los caracteres se almacenan utilizando estándares como **ASCII** (7 bits) o **Unicode** (generalmente más grande, permite representar casi todos los símbolos y letras del mundo).
 
 Los caracteres son tratados de manera diferente según el lenguaje de programación, en términos de tamaño y codificación. Vamos a ver cómo se manejan los caracteres en **C**, **Rust**, y **Python**.

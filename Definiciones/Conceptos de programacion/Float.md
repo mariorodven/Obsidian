@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 El tipo de dato **punto flotante** o **float** se utiliza para representar números que tienen parte decimal, permitiendo trabajar con valores fraccionarios. A diferencia de los enteros, los floats pueden representar números como `3.14`, `-0.001`, o `2.71828`.
 
 ### Float en **C**

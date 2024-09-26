@@ -26,7 +26,7 @@ saludar()
 
 ### Argumentos y parámetros
 
-Las funciones pueden aceptar **[[Variables|argumentos]]**, que son valores que se pasan a la función para que ésta los utilice en su ejecución.
+Las funciones pueden aceptar **[[Python/Variables|argumentos]]**, que son valores que se pasan a la función para que ésta los utilice en su ejecución.
 
 #### Función con un argumento:
 

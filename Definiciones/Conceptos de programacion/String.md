@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### Cadenas de texto (Strings) en Programación
 
 Un **string** o **cadena de texto** es una secuencia de caracteres. Los strings son muy utilizados en programación para almacenar y manipular texto, como palabras, frases o cualquier conjunto de caracteres. La manera en que los strings se manejan y almacenan varía entre lenguajes de programación, en términos de eficiencia, mutabilidad y soporte para caracteres especiales como **Unicode**.

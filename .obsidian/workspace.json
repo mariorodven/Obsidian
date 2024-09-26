@@ -13,21 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definiciones/C.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "6c4c4cd00edf2758",
+            "id": "a21328a77a0b32d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/¿Qué es Linux?.md",
-                "mode": "preview",
-                "source": true
+                "file": "Robotica/Introduccion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/¿Qué es Linux?.md",
+                "file": "Robotica/Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/¿Qué es Linux?.md",
+                "file": "Robotica/Introduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/¿Qué es Linux?.md"
+                "file": "Robotica/Introduccion.md"
               }
             }
           }
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,26 +162,24 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "6c4c4cd00edf2758",
+  "active": "a21328a77a0b32d8",
   "lastOpenFiles": [
+    "C/Variables.md",
+    "C/Introduccion.md",
+    "Robotica/Introduccion.md",
+    "index.md",
+    "Linu.md",
+    "C",
     "Pagina de Inicio.md",
-    "Linux/¿Qué es Linux?.md",
-    "Definiciones/C.md",
+    "Definiciones/Conceptos de programacion/String.md",
+    "Robotica",
+    "Definiciones/Conceptos de programacion/Float.md",
+    "Definiciones/Conceptos de programacion/Enteros.md",
+    "Definiciones/Conceptos de programacion/Caracteres.md",
+    "Definiciones/Conceptos de programacion/booleanos.md",
     "Definiciones/Arch.md",
-    "Imagenes/logo.png",
     "Definiciones/carpeta padre.md",
-    "Definiciones/Compositores de ventana y escritorios.md",
-    "Definiciones/Debian.md",
-    "Definiciones/distros.md",
-    "Definiciones/gestores de paquetes.md",
-    "Definiciones/Git.md",
-    "Definiciones/IDE.md",
-    "Definiciones/kernel.md",
-    "Definiciones/Linus Torvalds.md",
-    "Definiciones/open source.md",
-    "Definiciones/Rust.md",
-    "Definiciones/Sistema de Archivos de Linux.md",
-    "Definiciones/Tipos de Kernel.md",
+    "Definiciones/C.md",
     "Python/venv.md",
     "Python/Variables.md",
     "Python/Tuplas.md",
@@ -190,6 +189,10 @@
     "Python/IDE para python.md",
     "Python/Funciones.md",
     "Python/Diccionarios.md",
+    "Python/Conjuntos.md",
+    "Linux/¿Qué es Linux?.md",
+    "Linux/Comandos básicos de Bash.md",
+    "Imagenes/logo.png",
     "Imagenes/terminal.jpg",
     "Imagenes/distros2.png",
     "Imagenes/distros.png",

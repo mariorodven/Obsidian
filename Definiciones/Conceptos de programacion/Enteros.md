@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 Un **entero** o **int** es un tipo de dato que representa números enteros, es decir, sin decimales. Los enteros pueden ser **positivos** o **negativos**. La forma en que los enteros se manejan y almacenan varía entre diferentes lenguajes de programación, y los tamaños (o rangos) de enteros pueden depender del lenguaje y del sistema operativo.
 
 ### Enteros en **[[C]]**
