@@ -16,7 +16,7 @@
 ### Sintaxis básica:
 
 La sintaxis de C es bastante simple y utiliza llaves `{}` para definir bloques de código, mientras que las funciones son bloques básicos de construcción. Un programa típico en C comienza con la función `main()`, como en este ejemplo de "Hola Mundo":
-```C
+```c
 #include <stdio.h>
 
 int main() {

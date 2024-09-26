@@ -9,7 +9,7 @@ Estos son los tipos de datos fundamentales de C:
 - **`double`**: Almacena números en coma flotante de doble precisión (8 bytes), lo que permite una mayor precisión en cálculos con decimales.
 - **`char`**: Almacena un solo carácter (1 byte). Puede almacenar cualquier valor que represente un carácter ASCII.
 
-```C
+```c
 int edad = 25;
 float temperatura = 36.5;
 double pi = 3.1415926535;
@@ -56,7 +56,7 @@ Los punteros son variables que almacenan la dirección de memoria de otra variab
 - **`int*`**: Declara un puntero a un entero.
 - **`char*`**: Declara un puntero a un carácter.
 
-```C
+```c
 int* ptr;
 char* nombre;
 ```

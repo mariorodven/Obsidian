@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotica/Introduccion.md",
+                "file": "C/Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotica/Introduccion.md",
+                "file": "C/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotica/Introduccion.md",
+                "file": "C/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotica/Introduccion.md"
+                "file": "C/Variables.md"
               }
             }
           }
@@ -164,8 +164,13 @@
   },
   "active": "a21328a77a0b32d8",
   "lastOpenFiles": [
-    "C/Variables.md",
+    "Definiciones/Conceptos de programacion/Caracteres.md",
+    "Definiciones/Conceptos de programacion/booleanos.md",
+    "Python/Variables.md",
     "C/Introduccion.md",
+    "C/Variables.md",
+    "Definiciones/C.md",
+    "Linux/¿Qué es Linux?.md",
     "Robotica/Introduccion.md",
     "index.md",
     "Linu.md",
@@ -175,13 +180,9 @@
     "Robotica",
     "Definiciones/Conceptos de programacion/Float.md",
     "Definiciones/Conceptos de programacion/Enteros.md",
-    "Definiciones/Conceptos de programacion/Caracteres.md",
-    "Definiciones/Conceptos de programacion/booleanos.md",
     "Definiciones/Arch.md",
     "Definiciones/carpeta padre.md",
-    "Definiciones/C.md",
     "Python/venv.md",
-    "Python/Variables.md",
     "Python/Tuplas.md",
     "Python/Listas.md",
     "Python/Introducción a la programación.md",
@@ -190,7 +191,6 @@
     "Python/Funciones.md",
     "Python/Diccionarios.md",
     "Python/Conjuntos.md",
-    "Linux/¿Qué es Linux?.md",
     "Linux/Comandos básicos de Bash.md",
     "Imagenes/logo.png",
     "Imagenes/terminal.jpg",
