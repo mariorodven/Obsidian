@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Variables.md",
+                "file": "Python/Snippets.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Variables.md",
+                "file": "Python/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Variables.md",
+                "file": "Python/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Variables.md"
+                "file": "Python/Snippets.md"
               }
             }
           }
@@ -164,11 +164,14 @@
   },
   "active": "a21328a77a0b32d8",
   "lastOpenFiles": [
+    "Python/Listas.md",
+    "Python/Snippets.md",
+    "C/Variables.md",
+    "Python/Snippets",
     "Definiciones/Conceptos de programacion/Caracteres.md",
     "Definiciones/Conceptos de programacion/booleanos.md",
     "Python/Variables.md",
     "C/Introduccion.md",
-    "C/Variables.md",
     "Definiciones/C.md",
     "Linux/¿Qué es Linux?.md",
     "Robotica/Introduccion.md",
@@ -184,14 +187,12 @@
     "Definiciones/carpeta padre.md",
     "Python/venv.md",
     "Python/Tuplas.md",
-    "Python/Listas.md",
     "Python/Introducción a la programación.md",
     "Python/Instalación de Python en Linux.md",
     "Python/IDE para python.md",
     "Python/Funciones.md",
     "Python/Diccionarios.md",
     "Python/Conjuntos.md",
-    "Linux/Comandos básicos de Bash.md",
     "Imagenes/logo.png",
     "Imagenes/terminal.jpg",
     "Imagenes/distros2.png",
