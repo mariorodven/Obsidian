@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Snippets.md",
+                "file": "Python/dir().md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Snippets.md",
+                "file": "Python/dir().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Snippets.md",
+                "file": "Python/dir().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Snippets.md"
+                "file": "Python/dir().md"
               }
             }
           }
@@ -164,8 +164,12 @@
   },
   "active": "a21328a77a0b32d8",
   "lastOpenFiles": [
-    "Python/Listas.md",
+    "Python/La variable __name__.md",
+    "Python/dir().md",
+    "Python/Módulos y paquetes.md",
+    "Imagenes/modulos python.png",
     "Python/Snippets.md",
+    "Python/Listas.md",
     "C/Variables.md",
     "Python/Snippets",
     "Definiciones/Conceptos de programacion/Caracteres.md",
@@ -190,9 +194,6 @@
     "Python/Introducción a la programación.md",
     "Python/Instalación de Python en Linux.md",
     "Python/IDE para python.md",
-    "Python/Funciones.md",
-    "Python/Diccionarios.md",
-    "Python/Conjuntos.md",
     "Imagenes/logo.png",
     "Imagenes/terminal.jpg",
     "Imagenes/distros2.png",
