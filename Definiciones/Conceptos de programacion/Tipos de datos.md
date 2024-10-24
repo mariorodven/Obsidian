@@ -1,0 +1,5 @@
+[[booleanos]]
+[[Caracteres]]
+[[Enteros]]
+[[Float]]
+[[String]]
