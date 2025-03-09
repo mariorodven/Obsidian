@@ -1,6 +1,6 @@
 ## La [[Funciones|funcion]] setup y loop
 
-En Arduino, la función `setup()` se ejecuta una vez al iniciar el programa y es donde se configuran los pines de entrada o salida, inicializaciones de comunicación, entre otras cosas. Por ejemplo: 
+En Arduino, la [[funciones ino|funcion]]  `setup()` se ejecuta una vez al iniciar el programa y es donde se configuran los pines de entrada o salida, inicializaciones de comunicación, entre otras cosas. Por ejemplo: 
 ```cpp
 void setup() { 
 	pinMode(13, OUTPUT); 

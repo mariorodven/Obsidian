@@ -49,6 +49,7 @@ price: float = 19.99 # Especifica que price es un número decimal
 Sin embargo, Python no obliga a seguir el tipo especificado en las anotaciones, y son principalmente usadas como guía para el programador y herramientas de desarrollo.
 
 ### Ejemplo:
+
 ```python
 age: int = 25 # Declara que age es un entero 
 name: str = "Alice" # Declara que name es una cadena 
