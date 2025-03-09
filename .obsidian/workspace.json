@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotica/programar en arduino.md",
+                "file": "Robotica/Clases/Ejercicios 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "programar en arduino"
+              "title": "Ejercicios 1"
             }
           }
         ]
@@ -168,13 +168,21 @@
   },
   "active": "c8b9935cc00aac82",
   "lastOpenFiles": [
+    "Pasted image 20250309171740.png",
+    "Pasted image 20250309171736.png",
+    "Imagenes/Ejc1.png",
+    "Robotica/Clases/Clase 1.md",
+    "Robotica/Clases/Ejercicios 1.md",
+    "Imagenes/salidas digitales.png",
+    "Imagenes/senal.png",
+    "Robotica/programar en arduino.md",
+    "Robotica/Clases",
     "Robotica/Introduccion.md",
     "Robotica/funciones ino.md",
     "Python/Variables.md",
     "Linux/¿Qué es Linux?.md",
     "Definiciones/kernel.md",
     "C/Variables.md",
-    "Robotica/programar en arduino.md",
     "Python/Funciones.md",
     "index.md",
     "Python/Funciones recursivas.md",
@@ -191,9 +199,6 @@
     "Python/Módulos y paquetes.md",
     "Python/Programacion orientada a objetos.md",
     "Python/Listas.md",
-    "Python/Control de flujo.md",
-    "Definiciones/Conceptos de programacion/Tipos de datos.md",
-    "Linu.md",
     "Imagenes/modulos python.png",
     "Python/Snippets",
     "C",
